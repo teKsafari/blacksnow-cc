@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="BlackSnow" height="40" />
+  <br />
+  <b>BlackSnow</b>
+</p>
+
 <img src="assets/banner.png" alt="BlackSnow Banner" />
 
-<img src="assets/logo.svg" alt="BlackSnow" height="40" />
 
 > [!NOTE]
 > This is the public community repository for BlackSnow. The core engine is under active private development. This space exists for issues, feedback, and discussion.
