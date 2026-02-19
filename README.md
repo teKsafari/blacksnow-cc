@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="BlackSnow" height="40" />
-  <br />
-  <b>BlackSnow</b>
+  <a href="https://blacksnow.cc">
+    <img src="assets/logo.svg" alt="BlackSnow" height="40" />
+    <br />
+    <b>BlackSnow</b>
+  </a>
 </p>
 
 <img src="assets/banner.png" alt="BlackSnow Banner" />
