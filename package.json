@@ -1,0 +1,10 @@
+{
+  "name": "@blacksnow/cc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step'",
+    "lint": "echo 'No lint step'",
+    "dev": "echo 'No dev step'"
+  }
+}
