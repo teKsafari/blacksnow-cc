@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="BlackSnow Banner" />
+
 <img src="assets/logo.svg" alt="BlackSnow" height="40" />
 
 > [!NOTE]
@@ -27,6 +29,8 @@ At a high level, the engine decomposes a request into smaller parts with defined
 The result is environments that behave more like software than media — inspectable, testable, and replayable.
 
 ## Applications
+
+<img src="assets/applications.png" alt="Applications" />
 
 The engine is applicable wherever reliable simulation matters:
 
