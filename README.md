@@ -58,4 +58,4 @@ If you have a use case, question, or idea — open an issue.
 
 ## Contact
 
-[hello@blacksnow.cc](mailto:hello@blacksnow.cc) · [blacksnow.cc](https://blacksnow.cc)
+[blacksnow@teksafari.org](mailto:blacksnow@teksafari.org) · [blacksnow.cc](https://blacksnow.cc)
